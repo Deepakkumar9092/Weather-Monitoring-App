@@ -1,5 +1,3 @@
-Here’s a sample README.md for your Real-Time Weather Monitoring System built with Spring Boot. It provides an overview of the project, setup instructions, and how to use the application.
-
 Real-Time Weather Monitoring System
 Overview
 This project is a real-time weather monitoring system that retrieves data from the OpenWeatherMap API, processes it, and provides daily summaries of the weather for specified cities in India. The system stores weather data, aggregates it for daily summaries, triggers alerts for specific conditions, and offers visualizations.
